@@ -1,0 +1,138 @@
+BAVARIA COP 1809 — PROPRIETARY SOFTWARE LICENSE
+=================================================
+Copyright © 2026 Frank L. Adams III. All Rights Reserved.
+
+NOTICE: This software is protected by United States copyright law and
+international treaty provisions. Unauthorized reproduction or distribution
+of this software, or any portion of it, may result in severe civil and
+criminal penalties, and will be prosecuted to the maximum extent possible
+under the law.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. OWNERSHIP
+━━━━━━━━━━━━
+This software, Bavaria COP 1809 (the "Software"), including all source
+code, design, architecture, documentation, georeferenced map overlays,
+road network data, unit definitions, and associated materials, is the
+sole and exclusive intellectual property of Frank L. Adams III ("Author").
+All rights not expressly granted herein are reserved by the Author.
+
+2. LIMITED EDUCATIONAL USE LICENSE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Permission is hereby granted, free of charge, to faculty, staff, and
+students of the U.S. Army War College, Carlisle Barracks, Pennsylvania,
+to use this Software for non-commercial educational purposes only,
+subject to all conditions stated in this License.
+
+This limited grant is personal and non-transferable. It does not
+constitute a transfer of ownership or any intellectual property rights.
+
+3. CONDITIONS OF USE
+━━━━━━━━━━━━━━━━━━━━
+Any permitted use of this Software is subject to the following conditions:
+
+  a. This copyright notice and License must be retained in all copies.
+
+  b. The Software may not be modified, adapted, or used as the basis for
+     any derivative work without the prior written permission of the Author.
+
+  c. Attribution must be maintained in any permitted copy or use:
+     "Bavaria COP 1809 © 2026 Frank L. Adams III. All Rights Reserved."
+
+  d. The Software may not be used in connection with any military
+     operation, classified system, or government contract without the
+     prior written permission of the Author.
+
+4. RESTRICTIONS — EXPRESSLY PROHIBITED
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+The following are expressly prohibited without prior written permission:
+
+  a. COMMERCIAL USE: Using, deploying, licensing, sublicensing, selling,
+     renting, or otherwise monetizing this Software or any portion thereof.
+
+  b. REDISTRIBUTION: Distributing or publishing this Software to any
+     person or entity outside the U.S. Army War College community.
+
+  c. DERIVATIVE WORKS: Creating any software, product, or service that
+     is based on, derived from, or substantially similar to this Software.
+
+  d. REMOVAL OF NOTICES: Removing, altering, or obscuring any copyright
+     notice, trademark, or proprietary legend in or on the Software.
+
+  e. SUBLICENSING: Granting any rights to this Software to any third
+     party without prior written consent of the Author.
+
+5. RESERVATION OF COMMERCIAL RIGHTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+The Author expressly reserves the exclusive right to:
+
+  a. Commercialize, sell, license, or exploit this Software for gain.
+  b. License this Software to third parties under separate agreements.
+  c. Create and distribute enhanced or derivative versions commercially.
+  d. Transfer, assign, or sell the intellectual property rights herein.
+
+6. THIRD-PARTY COMPONENTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+This Software incorporates the following open source components:
+
+  a. Leaflet.js (v1.9.4) — BSD 2-Clause License
+     Copyright © 2010-2023 Vladimir Agafonkin
+     https://leafletjs.com
+
+  b. OpenStreetMap Tiles — Open Database License (ODbL)
+     © OpenStreetMap contributors
+     https://www.openstreetmap.org/copyright
+
+  c. Google Fonts (Cinzel, Share Tech Mono, IM Fell English)
+     SIL Open Font License and Apache License 2.0
+
+  d. Period Map Overlays — Thiers/Dufour, Histoire du Consulat et de
+     l'Empire (Paulin, Paris, c.1845-1862). Public domain works
+     georeferenced by Frank L. Adams III. The georeferencing, selection,
+     arrangement, and compilation constitute original work protected
+     by copyright.
+
+  e. Road Network Data — Original compilation by Frank L. Adams III
+     based on historical sources including Gill (2026) and period
+     cartographic materials. Protected by copyright.
+
+7. DISCLAIMER OF WARRANTIES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE
+SOFTWARE IS WITH THE USER.
+
+8. LIMITATION OF LIABILITY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━
+IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY INDIRECT, INCIDENTAL,
+SPECIAL, OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR IN CONNECTION WITH
+THE USE OR INABILITY TO USE THIS SOFTWARE.
+
+9. GOVERNING LAW
+━━━━━━━━━━━━━━━━
+This License shall be governed by the laws of the United States of
+America and the Commonwealth of Pennsylvania. Any dispute shall be
+subject to the exclusive jurisdiction of the federal and state courts
+located in Cumberland County, Pennsylvania.
+
+10. ENFORCEMENT
+━━━━━━━━━━━━━━━
+Violation of any term of this License automatically terminates the
+limited rights granted herein. The Author reserves the right to pursue
+all available legal remedies, including statutory damages under
+17 U.S.C. § 504 and attorney's fees under 17 U.S.C. § 505.
+
+11. CONTACT AND COMMERCIAL LICENSING
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+For commercial licensing inquiries:
+
+  Frank L. Adams III
+  Email: fl16stuff@gmail.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+By using this Software you acknowledge that you have read this License,
+understand it, and agree to be bound by its terms and conditions.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Bavaria COP 1809 © 2026 Frank L. Adams III. All Rights Reserved.
+Last revised: May 2026
